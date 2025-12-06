@@ -1,7 +1,8 @@
 # FetchBilibiliSuits
 
 ## 简介
-b站主题/收藏集资源自动下载脚本
+b站主题/收藏集资源自动下载脚本  
+### 脚本还没有开发完~看看文档吧 ###
 
 ## 鸣谢 
 部分API文档，APPKey以及Sign签名算法等内容参考[bilibili-API-collect
