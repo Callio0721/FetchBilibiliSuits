@@ -1,0 +1,19 @@
+{
+  "id": 1764311386001,
+  "name": "小白兔奶糖·个性主题",
+  "preview": "https://i0.hdslb.com/bfs/garb/2f2ba8ac45d2fd6aefe40911a6e5fc105db2e2be.png",
+  "ver": "1764743645",
+  "package_url": "https://i0.hdslb.com/bfs/garb/zip/79f1e670484b730a32fe47395e2d65ae9d6c5381.zip",
+  "data": {
+    "color_mode": "light",
+    "color": "#000000",
+    "color_second_page": "#FFBED6",
+    "tail_color": "#9380D7",
+    "tail_color_selected": "#E887BD",
+    "tail_icon_ani": "",
+    "tail_icon_ani_mode": "",
+    "head_myself_mp4_play": "loop",
+    "tail_icon_mode": "img",
+    "side_bg_color": ""
+  }
+}
