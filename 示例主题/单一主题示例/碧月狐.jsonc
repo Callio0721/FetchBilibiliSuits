@@ -1,0 +1,82 @@
+{
+    // 注意：碧月湖主题的item_id是 317957001
+    // 下面各个id即fan_item_ids
+    "load_equip": {
+        // 这里的id就是 "loading" 里面的id
+        "id": 1750839002001, 
+        "name": "碧月狐",
+        "loading_url": "https://i0.hdslb.com/bfs/baselabs/op/18de56aec34de04f038ef2aed5e69db48044d228cf639a6198931fc7bed71e82.webp",
+        "ver": "1751601301"
+    },
+    "play_icon": {
+        "drag_left_png": "https://i0.hdslb.com/bfs/garb/2bf539b813d3d2e4231758f46e80a0d697c4e8be.png",
+        "drag_right_png": "https://i0.hdslb.com/bfs/garb/1c64f58999acb0dc4408a50c283fe1e272780466.png",
+        "goods_type": "suit",
+        "middle_png": "https://i0.hdslb.com/bfs/garb/79c572865c342dbcf0fa8aede1c248969e41182c.png",
+        "squared_image": "https://i0.hdslb.com/bfs/baselabs/op/2ac8577a6cf3cd6de81a790d728b3783e3c84852d7c466600739b34c25000d81.png",
+        "static_icon_image": "https://i0.hdslb.com/bfs/garb/32d25ff6e54423b995a8b629ab497519e4d82baa.png",
+        "ver": "1751601301",
+        // 这里的id就是 "play_icon" 里面的id
+        "id": 1743140197001
+    },
+    "user_equip": {
+        // 这里的id就是 "skin" 里面的item_id
+        "id": 1750838451001,
+        "name": "碧月狐",
+        "preview": "https://i0.hdslb.com/bfs/garb/08ec83ea3b728a14b3108c9c6bb07d17239d8176.png",
+        "ver": "1751108486",
+        "package_url": "https://i0.hdslb.com/bfs/garb/zip/c4f2fe0ac5c8d51afcef6fa74771d00f1f35283a.zip",
+        "data": {
+            "color_mode": "dark",
+            "color": "#ffffff",
+            "color_second_page": "#4FADFF",
+            "tail_color": "#000F7F",
+            "tail_color_selected": "#003CFF",
+            "tail_icon_ani": "",
+            "tail_icon_ani_mode": "",
+            "head_myself_mp4_play": "loop",
+            "tail_icon_mode": "img",
+            "side_bg_color": ""
+        }
+    },
+    "id": 1750838451001,
+    "name": "碧月狐",
+    "space_bg": {
+        "id": 1751101601001,
+        "images": [
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/26afa63bb69342335a220beb8491632af019e36a.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/a2ea8b129461934900c1f4db4a45ca907985a3a3.jpg"
+            },
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/288d606453e7f7c9e08f5c775bb923912baaa4aa.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/8e4186d471b96df019622e5d1240954fdcfe1d76.jpg"
+            },
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/5354fa4b633be18f528b80d77f688f27dbc7b0f6.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/65fec8b21cf600982ccf0658f206e63fbd8ff767.jpg"
+            },
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/257271912b6b48c202aeaae2173f0a8dadbaace9.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/5946f6179fdc28ad218c3b3181f0108a6390af3d.jpg"
+            },
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/96304b84be247ef92f4f3f40309cc72c9471ebe3.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/6137c3e90d414c1577822b90e74d8bb6ab86c936.jpg"
+            },
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/db23ad29ad69a2bf4ed3787201d9374447803560.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/64a4f45f2c107cc2a4e3758a76bcb3ebbe2ac6fe.jpg"
+            },
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/e8cf465dd310a78153b6a25d8db4cb8e95f0879f.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/05b88e58425b052fd182bfffbc717315ff1310b8.jpg"
+            },
+            {
+                "landscape": "https://i0.hdslb.com/bfs/garb/8d15e0e6dc8b16f7a6e429b38a06db4fd0e30ec0.jpg",
+                "portrait": "https://i0.hdslb.com/bfs/garb/9a8ebf9189e3916181708631e90c3563291b1ae6.jpg"
+            }
+        ]
+    }
+}
+

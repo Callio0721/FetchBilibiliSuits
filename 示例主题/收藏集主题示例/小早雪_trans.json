@@ -1,0 +1,39 @@
+{
+    "user_equip": {
+        "id": 1764739988001,
+        "name": "小早雪",
+        "preview": "https://i0.hdslb.com/bfs/garb/bfe062286c3002b73a94af96f54d45b10dea1a83.png",
+        "ver": "1764747592",
+        "package_url": "https://i0.hdslb.com/bfs/garb/zip/59b938a2f448e255e90143fc2bc8079eec98dfcd.zip",
+        "data": {
+            "color_mode": "light",
+            "color": "#000000",
+            "color_second_page": "#EBF6FF",
+            "tail_color": "#000000",
+            "tail_color_selected": "#0400EA",
+            "tail_icon_ani": "",
+            "tail_icon_ani_mode": "",
+            "head_myself_mp4_play": "loop",
+            "tail_icon_mode": "img",
+            "side_bg_color": ""
+        }
+    },
+    "id": 1764739988001,
+    "name": "小早雪",
+    "load_equip": {
+        "id": 1764745887001,
+        "name": "小早雪",
+        "loading_url": "https://i0.hdslb.com/bfs/garb/item/a0818d8184266cb7fd0147d650e98fec23453d80.webp",
+        "ver": "1764914523"
+    },
+    "play_icon": {
+        "drag_left_png": "https://i0.hdslb.com/bfs/garb/3f1353da0c82919a69aab65233366f5eebc31b4b.png",
+        "drag_right_png": "https://i0.hdslb.com/bfs/garb/8e143b8cb816534cb5ef2700a0272702fb405a90.png",
+        "goods_type": "dlc",
+        "middle_png": "https://i0.hdslb.com/bfs/garb/3fa059cc4dbcefaa6f79988b050bcb10c51139a3.png",
+        "squared_image": "https://i0.hdslb.com/bfs/baselabs/op/d932b13217be38273a5485f887a8d37ae8e5a14c6cc36dcec2f1e838a6c2a7f7.png",
+        "static_icon_image": "https://i0.hdslb.com/bfs/garb/22f0552a2ce46ced1662afbab23276593e17e437.png",
+        "ver": "1764846002",
+        "id": 1764733374001
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1764739988001, 
+    "name": "小早雪", 
+    "preview": "https://i0.hdslb.com/bfs/garb/bfe062286c3002b73a94af96f54d45b10dea1a83.png", 
+    "ver": "1764747592", 
+    "package_url": "https://i0.hdslb.com/bfs/garb/zip/59b938a2f448e255e90143fc2bc8079eec98dfcd.zip", 
+    "data": {
+        "color_mode": "light", 
+        "color": "#000000", 
+        "color_second_page": "#EBF6FF", 
+        "tail_color": "#000000", 
+        "tail_color_selected": "#0400EA", 
+        "tail_icon_ani": "", 
+        "tail_icon_ani_mode": "", 
+        "head_myself_mp4_play": "loop", 
+        "tail_icon_mode": "img", 
+        "side_bg_color": ""
+    }
+}
